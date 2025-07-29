@@ -52,7 +52,7 @@ ul {
 .first {
   height: 96px;
   width: 145px;
-  background-image: url(./logo.avif);
+  background-image: url(./image/logo.avif);
   background-position: center;
   background-size: contain;
 
@@ -109,7 +109,7 @@ a:hover {
 .box1 {
   width: 1351px;
   height: 450px;
-  background-image: url(/review.webp);
+  background-image: url(./image/review.webp);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -206,7 +206,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./header-1.webp);
+  background-image: url(./image/header-1.webp);
   background-size: cover;
 
 
@@ -222,7 +222,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./header-2.webp);
+  background-image: url(./image/header-2.webp);
   background-size: cover;
 }
 
@@ -239,7 +239,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./header-3.webp);
+  background-image: url(./image/header-3.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -257,7 +257,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./header-4.webp);
+  background-image: url(./image/header-4.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -310,7 +310,7 @@ span {
   width: 290px;
   /* background-color: lightblue; */
   border-radius: 20px;
-  background-image: url(./baba1.webp);
+  background-image: url(./image/baba1.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -329,7 +329,7 @@ span {
   width: 290px;
   /* background-color: red; */
   border-radius: 20px;
-  background-image: url(./baba2.webp);
+  background-image: url(./image/baba2.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -347,7 +347,7 @@ span {
   width: 290px;
   /* background-color: yellow; */
   border-radius: 20px;
-  background-image: url(./baba3.webp);
+  background-image: url(./image/baba3.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -365,7 +365,7 @@ span {
   width: 290px;
   /* background-color: brown; */
   border-radius: 20px;
-  background-image: url(./baba4.webp);
+  background-image: url(./image/baba4.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -417,7 +417,7 @@ span {
   width: 290px;
   /* background-color: lightblue; */
   border-radius: 20px;
-  background-image: url(./her1.webp);
+  background-image: url(./image/her1.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -436,7 +436,7 @@ span {
   width: 290px;
   /* background-color: red; */
   border-radius: 20px;
-  background-image: url(./her2.webp);
+  background-image: url(./image/her2.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -454,7 +454,7 @@ span {
   width: 290px;
   /* background-color: yellow; */
   border-radius: 20px;
-  background-image: url(./her3.webp);
+  background-image: url(./image/her3.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -472,7 +472,7 @@ span {
   width: 290px;
   /* background-color: brown; */
   border-radius: 20px;
-  background-image: url(./her4.webp);
+  background-image: url(./image/her4.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -524,7 +524,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./today1.webp);
+  background-image: url(./image/today1.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -533,7 +533,7 @@ span {
 .box-13:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./hover13.webp);
+  background-image: url(./image/hover13.webp);
 }
 
 .box-14 {
@@ -541,7 +541,7 @@ span {
   width: 290px;
   /* background-color:  red; */
   border-radius: 20px;
-  background-image: url(./today2.webp);
+  background-image: url(./image/today2.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -550,14 +550,14 @@ span {
 .box-14:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./hover14.webp);
+  background-image: url(./image/hover14.webp);
 }
 
 .box-15 {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./today3.webp);
+  background-image: url(./image/today3.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -566,14 +566,14 @@ span {
 .box-15:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./hover15.webp);
+  background-image: url(./image/hover15.webp);
 }
 
 .box-16 {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./today5.webp);
+  background-image: url(./image/hover16.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -582,7 +582,7 @@ span {
 .box-16:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./hover16.webp);
+  background-image: url(./image/today3.webp);
 }
 
 
@@ -812,7 +812,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./fan17.webp);
+  background-image: url(./image/fan17.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -821,7 +821,7 @@ span {
 .box-17:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./fani17.webp);
+  background-image: url(./image/fani17.webp);
 }
 
 
@@ -831,7 +831,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./fan18.webp);
+  background-image: url(./image/fan18.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -840,7 +840,7 @@ span {
 .box-18:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./fani18.webp);
+  background-image: url(./image/fani18.webp);
 }
 
 
@@ -849,7 +849,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./fan19.webp);
+  background-image: url(./image/fan19.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -858,7 +858,7 @@ span {
 .box-19:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./fani19.webp);
+  background-image: url(./image/fani19.webp);
 }
 
 
@@ -867,7 +867,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./fan20.webp);
+  background-image: url(./image/fan20.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -876,7 +876,7 @@ span {
 .box-20:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./fani20.webp);
+  background-image: url(./image/fani20.webp);
 }
 
 
@@ -1130,7 +1130,7 @@ span {
   height: 480px;
   width: 520px;
   display: flex;
-  background-image: url(./foot-1.webp);
+  background-image: url(./image/foot-1.webp);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -1367,7 +1367,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./text-21.webp);
+  background-image: url(./image/text-21.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1376,7 +1376,7 @@ span {
 .box-21:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./texti-21.webp);
+  background-image: url(./image/texti-21.webp);
 }
 
 
@@ -1386,7 +1386,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./text-22.jpg);
+  background-image: url(./image/text-22.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1395,7 +1395,7 @@ span {
 .box-22:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./texti-22.webp);
+  background-image: url(./image/texti-22.webp);
 }
 
 
@@ -1404,7 +1404,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./text-24.webp);
+  background-image: url(./image/text-23.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1413,7 +1413,7 @@ span {
 .box-23:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./texti-24.webp);
+  background-image: url(./image/texti-23.webp);
 }
 
 
@@ -1422,7 +1422,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./text-23.webp);
+  background-image: url(./image/text-24.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -1431,7 +1431,7 @@ span {
 .box-24:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./texti-23.webp);
+  background-image: url(./image/texti-24.webp);
 }
 
 
@@ -1688,7 +1688,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-1.jpg);
+  background-image: url(./image/dinos-1.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1697,7 +1697,7 @@ span {
 .box-25:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-1.webp);
+  background-image: url(./image/dinosi-1.webp);
 }
 
 
@@ -1707,7 +1707,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-1.webp);
+  background-image: url(./image/dinosi-11.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1716,7 +1716,7 @@ span {
 .box-26:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-2.webp);
+  background-image: url(./image/dinosi-2.webp);
 }
 
 
@@ -1725,7 +1725,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(.//dinos-3.webp);
+  background-image: url(./image/dinos-3.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1734,7 +1734,7 @@ span {
 .box-27:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-3.webp);
+  background-image: url(./image/dinosi-3.webp);
 }
 
 
@@ -1743,7 +1743,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-4.webp);
+  background-image: url(./image/dinos-4.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -1752,7 +1752,7 @@ span {
 .box-28:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-4.webp);
+  background-image: url(./image/dinosi-4.webp);
 }
 
 
@@ -1814,8 +1814,6 @@ span {
   cursor: pointer;
 
 }
-
-
 
 
 
@@ -1979,7 +1977,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-5.webp);
+  background-image: url(./image/dinos-5.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1988,7 +1986,7 @@ span {
 .box-29:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-5.webp);
+  background-image: url(./image/dinosi-5.webp);
 }
 
 
@@ -1998,7 +1996,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-6.webp);
+  background-image: url(./image/dinos-6.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -2007,7 +2005,7 @@ span {
 .box-30:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-6.webp);
+  background-image: url(./image/dinosi-6.webp);
 }
 
 
@@ -2016,7 +2014,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-7.webp);
+  background-image: url(./image/dinos-7.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -2025,7 +2023,7 @@ span {
 .box-31:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-7.webp);
+  background-image: url(./image/dinosi-7.webp);
 }
 
 
@@ -2034,7 +2032,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-8.webp);
+  background-image: url(./image/dinos-8.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -2043,7 +2041,7 @@ span {
 .box-32:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-8.webp);
+  background-image: url(./image/dinosi-8.webp);
 }
 
 
@@ -2266,7 +2264,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-9.webp);
+  background-image: url(./image/dinos-9.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -2275,7 +2273,7 @@ span {
 .box-33:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-9.jpg);
+  background-image: url(./image/dinosi-9.jpg);
 }
 
 
@@ -2285,7 +2283,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-10.webp);
+  background-image: url(./image/dinos-10.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -2294,7 +2292,7 @@ span {
 .box-34:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-10.webp);
+  background-image: url(./image/dinosi-10.webp);
 }
 
 
@@ -2303,7 +2301,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-11.webp);
+  background-image: url(./image/dinos-11.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -2312,7 +2310,7 @@ span {
 .box-35:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-11.webp);
+  background-image: url(./image/dinosi-2.webp);
 }
 
 
@@ -2321,7 +2319,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./dinos-12.webp);
+  background-image: url(./image/dinos-12.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -2330,7 +2328,7 @@ span {
 .box-36:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./dinosi-12.webp);
+  background-image: url(./image/dinosi-12.webp);
 }
 
 
@@ -2632,7 +2630,7 @@ span {
   width: 245px;
   display: flex;
   border-radius: 15px;
-  background-image: url(./cus-1.webp);
+  background-image: url(./image/cus-1.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -2643,7 +2641,7 @@ span {
   width: 245px;
   display: flex;
   border-radius: 15px;
-  background-image: url(./cus-2.webp);
+  background-image: url(./image/cus-2.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -2654,7 +2652,7 @@ span {
   width: 245px;
   display: flex;
   border-radius: 15px;
-  background-image: url(./cus-3.webp);
+  background-image: url(./image/cus-3.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -2665,7 +2663,7 @@ span {
   width: 245px;
   display: flex;
   border-radius: 15px;
-  background-image: url(./cus-4.webp);
+  background-image: url(./image/cus-4.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -2676,7 +2674,7 @@ span {
   width: 245px;
   display: flex;
   border-radius: 15px;
-  background-image: url(./cus-5.webp);
+  background-image: url(./image/cus-5.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -2724,7 +2722,7 @@ span {
   width: 290px;
   margin-left: 20px;
   border-radius: 20px;
-  background-image: url(./box-37.webp);
+  background-image: url(./image/box-37.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -2733,7 +2731,7 @@ span {
 .box-37:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-37.webp);
+  background-image: url(./image/boxi-37.webp);
 }
 
 
@@ -2743,7 +2741,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-38.webp);
+  background-image: url(./image/box-38.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -2752,7 +2750,7 @@ span {
 .box-38:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-38.webp);
+  background-image: url(./image/boxi-38.webp);
 }
 
 
@@ -2761,7 +2759,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-39.webp);
+  background-image: url(./image/box-39.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -2770,7 +2768,7 @@ span {
 .box-39:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-39.webp);
+  background-image: url(./image/boxi-39.webp);
 }
 
 
@@ -2779,7 +2777,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-40.webp);
+  background-image: url(./image/box-40.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -2788,7 +2786,7 @@ span {
 .box-40:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-40.webp);
+  background-image: url(./image/boxi-40.webp);
 }
 
 
@@ -2807,7 +2805,6 @@ span {
   margin-left: 20px;
   background-size: contain;
   background-position: center;
-
 
 
 }
@@ -2851,10 +2848,6 @@ span {
   cursor: pointer;
 
 }
-
-
-
-
 
 
 .text-38 {
@@ -3015,7 +3008,7 @@ span {
   margin-left: 20px;
   margin-left: 20px;
   border-radius: 20px;
-  background-image: url(./box-41.webp);
+  background-image: url(./image/box-41.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3024,7 +3017,7 @@ span {
 .box-41:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-41.webp);
+  background-image: url(./image/boxi-41.webp);
 }
 
 
@@ -3034,7 +3027,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-42.webp);
+  background-image: url(./image/box-42.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3043,7 +3036,7 @@ span {
 .box-42:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-42.webp);
+  background-image: url(./image/boxi-42.webp);
 }
 
 
@@ -3052,7 +3045,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-43.webp);
+  background-image: url(./image/box-43.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3061,7 +3054,7 @@ span {
 .box-43:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-43.webp);
+  background-image: url(./image/boxi-43.webp);
 }
 
 
@@ -3070,7 +3063,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-44.webp);
+  background-image: url(./image/box-44.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -3079,7 +3072,7 @@ span {
 .box-44:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-44.webp);
+  background-image: url(./image/boxi-44.webp);
 }
 
 
@@ -3143,25 +3136,16 @@ span {
 }
 
 
-
-
-
-
 .text-42 {
   height: 77px;
   width: 290px;
-  /* background-color: lightblue; */
-  /* border-radius: 20px; */
-  /* background-image: url(./today1.webp); */
   background-size: contain;
-  /* background-repeat: no-repeat; */
   background-position: center;
 
 
 }
 
 .p {
-  /* margin-top: 5px; */
   color: #283C50;
   font-size: 16px;
   font-family: sans-serif;
@@ -3208,7 +3192,6 @@ span {
 }
 
 .p {
-  /* margin-top: 5px; */
   color: #283C50;
   font-size: 16px;
   font-family: sans-serif;
@@ -3293,7 +3276,6 @@ span {
 
 }
 
-/* twenty eight line */
 .botton {
   height: 39px;
   width: 138px;
@@ -3318,10 +3300,6 @@ span {
 .botton:hover {
   background-color: #BC0000;
 }
-
-
-
-
 
 /* twenty nine -line  */
 
@@ -3365,7 +3343,7 @@ span {
   width: 290px;
   margin-left: 20px;
   border-radius: 20px;
-  background-image: url(./box-45.webp);
+  background-image: url(./image/box-45.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3374,9 +3352,8 @@ span {
 .box-45:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-45.webp);
+  background-image: url(./image/boxi-45.webp);
 }
-
 
 
 
@@ -3384,7 +3361,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-46.webp);
+  background-image: url(./image/box-46.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3393,7 +3370,7 @@ span {
 .box-46:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-46.webp);
+  background-image: url(./image/boxi-46.webp);
 }
 
 
@@ -3402,7 +3379,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-47.webp);
+  background-image: url(./image/box-47.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3411,7 +3388,7 @@ span {
 .box-47:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-47.webp);
+  background-image: url(./image/boxi-47.webp);
 }
 
 
@@ -3420,7 +3397,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-48.webp);
+  background-image: url(./image/box-48.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -3429,7 +3406,7 @@ span {
 .box-48:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-48.webp);
+  background-image: url(./image/boxi-48.webp);
 }
 
 
@@ -3448,8 +3425,6 @@ span {
   margin-left: 20px;
   background-size: contain;
   background-position: center;
-
-
 
 }
 
@@ -3650,7 +3625,7 @@ span {
   width: 290px;
   margin-left: 20px;
   border-radius: 20px;
-  background-image: url(./box-49.webp);
+  background-image: url(./image/box-49.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3659,7 +3634,7 @@ span {
 .box-49:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-49.webp);
+  background-image: url(./image/boxi-49.webp);
 }
 
 
@@ -3669,7 +3644,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-50.webp);
+  background-image: url(./image/box-50.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3678,16 +3653,16 @@ span {
 .box-50:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-50.webp);
+  background-image: url(./image/boxi-50.webp);
 }
 
 
-
+/* eight-line  */
 .box-51 {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-51.webp);
+  background-image: url(./image/box-51.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3696,7 +3671,7 @@ span {
 .box-51:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-51.webp);
+  background-image: url(./image/boxi-51.webp);
 }
 
 
@@ -3705,7 +3680,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-52.webp);
+  background-image: url(./image/box-52.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -3714,7 +3689,7 @@ span {
 .box-52:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-52.webp);
+  background-image: url(./image/boxi-52.webp);
 }
 
 
@@ -3985,7 +3960,7 @@ span {
   width: 290px;
   margin-left: 20px;
   border-radius: 20px;
-  background-image: url(./box-53.webp);
+  background-image: url(./image/box-53.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3994,17 +3969,15 @@ span {
 .box-53:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-53.jpg);
+  background-image: url(./image/boxi-53.jpg);
 }
-
-
 
 
 .box-54 {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-54.webp);
+  background-image: url(./image/box-54.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -4013,7 +3986,7 @@ span {
 .box-54:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-54.webp);
+  background-image: url(./image/boxi-54.webp);
 }
 
 
@@ -4022,7 +3995,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-55.webp);
+  background-image: url(./image/box-55.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -4031,7 +4004,7 @@ span {
 .box-55:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-55.webp);
+  background-image: url(./image/boxi-55.webp);
 }
 
 
@@ -4040,7 +4013,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-56.webp);
+  background-image: url(./image/box-56.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -4049,7 +4022,7 @@ span {
 .box-56:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-56.webp);
+  background-image: url(./image/boxi-56.webp);
 }
 
 
@@ -4068,8 +4041,6 @@ span {
   margin-left: 20px;
   background-size: contain;
   background-position: center;
-
-
 
 }
 
@@ -4270,7 +4241,7 @@ span {
   width: 290px;
   margin-left: 20px;
   border-radius: 20px;
-  background-image: url(./box-57.webp);
+  background-image: url(./image/box-57.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -4279,7 +4250,7 @@ span {
 .box-57:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-57.webp);
+  background-image: url(./image/boxi-57.webp);
 }
 
 
@@ -4289,7 +4260,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-58.webp);
+  background-image: url(./image/box-58.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -4298,7 +4269,7 @@ span {
 .box-58:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-58.webp);
+  background-image: url(./image/boxi-58.webp);
 }
 
 
@@ -4307,7 +4278,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-59.jpg);
+  background-image: url(./image/box-59.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -4316,7 +4287,7 @@ span {
 .box-59:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-59.jpg);
+  background-image: url(./image/boxi-59.jpg);
 }
 
 
@@ -4325,7 +4296,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-60.webp);
+  background-image: url(./image/box-60.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -4334,7 +4305,7 @@ span {
 .box-60:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-60.webp);
+  background-image: url(./image/boxi-60.webp);
 }
 
 
@@ -4353,9 +4324,6 @@ span {
   margin-left: 20px;
   background-size: contain;
   background-position: center;
-
-
-
 }
 
 .p {
@@ -4403,8 +4371,6 @@ span {
   width: 290px;
   background-size: contain;
   background-position: center;
-
-
 }
 
 .p {
@@ -4450,8 +4416,6 @@ span {
   width: 290px;
   background-size: contain;
   background-position: center;
-
-
 }
 
 .p {
@@ -4654,7 +4618,7 @@ span {
 .video {
   height: 400px;
   width: 900px;
-  background-image: url(./image-12.png);
+  background-image: url(./image/image-12.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -4702,7 +4666,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-61.webp);
+  background-image: url(./image/box-61.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -4711,7 +4675,7 @@ span {
 .box-61:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-61.webp);
+  background-image: url(./image/boxi-61.webp);
 }
 
 
@@ -4720,7 +4684,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-62.webp);
+  background-image: url(./image/box-62.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -4729,7 +4693,7 @@ span {
 .box-62:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-62.webp);
+  background-image: url(./image/boxi-62.webp);
 }
 
 
@@ -4738,7 +4702,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-63.jpg);
+  background-image: url(./image/box-63.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -4747,7 +4711,7 @@ span {
 .box-63:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-63.webp);
+  background-image: url(./image/boxi-63.webp);
 }
 
 .box-64 {
@@ -4755,7 +4719,7 @@ span {
   width: 290px;
   margin-left: 20px;
   border-radius: 20px;
-  background-image: url(./box-46.webp);
+  background-image: url(./image/box-46.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -4764,7 +4728,7 @@ span {
 .box-64:hover:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-46.webp);
+  background-image: url(./image/boxi-46.webp);
 }
 
 .text {
@@ -4782,8 +4746,6 @@ span {
   margin-left: 20px;
   background-size: contain;
   background-position: center;
-
-
 
 }
 
@@ -4832,7 +4794,6 @@ span {
   height: 77px;
   background-size: contain;
   background-position: center;
-
 
 }
 
@@ -4926,8 +4887,6 @@ span {
   width: 290px;
   background-size: contain;
   background-position: center;
-
-
 }
 
 .p {
@@ -4984,7 +4943,7 @@ span {
   width: 290px;
   margin-left: 20px;
   border-radius: 20px;
-  background-image: url(./box-65.webp);
+  background-image: url(./image/box-65.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -4993,7 +4952,7 @@ span {
 .box-65:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-65.webp);
+  background-image: url(./image/boxi-65.webp);
 }
 
 
@@ -5003,7 +4962,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-66.webp);
+  background-image: url(./image/box-66.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -5012,7 +4971,7 @@ span {
 .box-66:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-66.webp);
+  background-image: url(./image/boxi-66.webp);
 }
 
 
@@ -5021,7 +4980,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-67.webp);
+  background-image: url(./image/box-67.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -5030,7 +4989,7 @@ span {
 .box-67:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-67.webp);
+  background-image: url(./image/boxi-67.webp);
 }
 
 
@@ -5039,7 +4998,7 @@ span {
   height: 290px;
   width: 290px;
   border-radius: 20px;
-  background-image: url(./box-68.webp);
+  background-image: url(./image/box-68.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center
@@ -5048,7 +5007,7 @@ span {
 .box-68:hover {
   transform: scale(1.1);
   transition: ease-in-out 0.5s;
-  background-image: url(./boxi-68.jpg);
+  background-image: url(./image/boxi-68.jpg);
 }
 
 
@@ -5067,8 +5026,6 @@ span {
   margin-left: 20px;
   background-size: contain;
   background-position: center;
-
-
 
 }
 
@@ -5117,7 +5074,6 @@ span {
   width: 290px;
   background-size: contain;
   background-position: center;
-
 
 }
 
@@ -5260,7 +5216,7 @@ span {
   height: 950px;
   width: 640px;
   background-color: #00ffff;
-  background-image: url(./foot-image.webp);
+  background-image: url(./image/foot-image.webp);
   background-position: center;
   background-size: contain;
   margin-left: 30px;
@@ -5413,7 +5369,7 @@ span {
 .foot-image {
   height: 168px;
   width: 252px;
-  background-image: url(./logo.avif);
+  background-image: url(./image/logo.avif);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -5598,3 +5554,4 @@ span {
 }
 
 /* finished */
+
